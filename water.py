@@ -12,10 +12,10 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
-from google.colab import files 
+from google.colab import files #this is for Google Colab usage only
   
   
-uploaded = files.upload()
+uploaded = files.upload() ####
 
 import pandas as pd 
 import io 
